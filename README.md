@@ -1,7 +1,9 @@
 # PopupwindowFilter
 
 
-[![Download](https://img.shields.io/badge/DownloadApp-2.1M-ff69b4.svg) ](https://github.com/maiduoduo/PopupwindowFilter/blob/master/app-debug.apk)
+[![Download](https://img.shields.io/badge/DownloadApp-2.1M-ff69b4.svg) ](https://www.lanzous.com/i7mn71a)
+
+![image](download_qrcode.png)
 
 ## 基于Popupwindow的下拉筛选控件
 <img src="https://github.com/maiduoduo/PopupwindowFilter/blob/master/video2gif_20180713_144109.gif" width="200"  align=center /> <img src="https://github.com/maiduoduo/PopupwindowFilter/blob/master/Screenshot1.png" width="200"  align=center /> <img src="https://github.com/maiduoduo/PopupwindowFilter/blob/master/Screenshot2.png" width="200"  align=center />
